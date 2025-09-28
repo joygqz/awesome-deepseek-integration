@@ -709,6 +709,11 @@ Integra la API de DeepSeek en softwares populares. Accede a la [Plataforma Abier
         <td> Conoce a Cline: un asistente de IA que puede trabajar con tu CLI y editor. </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
+        <td> Genere automáticamente mensajes de confirmación de Git estandarizados usando DeepSeek. </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
         <td> Usa IA para generar mensajes de commit en git desde VS Code. </td>

@@ -590,6 +590,11 @@ DeepSeek API を人気のソフトウェアに統合します。API キーを取
         <td> Clineは、CLIとエディタを使用できるAIアシスタントです。 </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
+        <td> DeepSeek を使用して標準化された Git コミット メッセージを自動的に生成します。 </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
         <td> VS Code で AI を使用して git commit message を生成するプラグイン。 </td>

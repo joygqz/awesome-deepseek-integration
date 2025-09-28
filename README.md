@@ -798,6 +798,11 @@ The purpose is to build infrastructure in the field of large models, through the
         <td> Meet Cline, an AI assistant that can use your CLI aNd Editor. </td>
     </tr>
     <tr>
+        <td> <img src="https://raw.githubusercontent.com/joygqz/commit-genie/refs/heads/main/images/icon.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://marketplace.visualstudio.com/items?itemName=joygqz.commit-genie"> Commit Genie </a> </td>
+        <td> Automatically generate standardized Git commit messages using DeepSeek. </td>
+    </tr>
+    <tr>
         <td> <img src="https://raw.githubusercontent.com/Sitoi/ai-commit/refs/heads/main/images/logo.png?raw=true" alt="Icon" width="64" height="auto" /> </td>
         <td> <a href="https://github.com/Sitoi/ai-commit/blob/main/README.md"> AI Commit </a> </td>
         <td> Use AI to generate git commit messages in VS Code. </td>
